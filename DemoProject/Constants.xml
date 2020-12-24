@@ -1,0 +1,12 @@
+﻿<ValidationConstants>
+	<Constant>
+		<Name>Person_Max_Age</Name>
+		<Type>int</Type>
+		<Value>50</Value>		
+	</Constant>
+	<Constant>
+		<Name>Person_Name_Max_Length</Name>
+		<Type>int</Type>
+		<Value>10</Value>
+	</Constant>	
+</ValidationConstants>
